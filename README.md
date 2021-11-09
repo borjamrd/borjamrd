@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @borjamrd
-- 👀 I’m interested in coding in coding in different languages
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in `marketing automation and web developing
+- 🌱 I’m currently learning JS and React
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me: borjamrd1@gmail.com
 
