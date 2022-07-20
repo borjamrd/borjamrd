@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @borjamrd
 - 👀 I’m interested in marketing automation and web developing
-- 🌱 I’m currently learning MEARN Stack
-- 💞️ Currently working at VOlkswagen Group Retail Spain, professional profile: https://github.com/borjamunozvw
+- 💞️ Currently working at Volkswagen Group Retail Spain, professional profile: https://github.com/borjamunozvw
 - 📫 How to reach me: borjamrd1@gmail.com
