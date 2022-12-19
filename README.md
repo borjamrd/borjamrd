@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @borjamrd
-- 👀 I’m interested in marketing automation and web developing
+- 👀 I’m interested in web apps developing. My preferred stacks by now are MERN and MEAN
 - 💞️ Currently working at Volkswagen Group Retail Spain, professional profile: https://github.com/borjamunozvw
 - 📫 How to reach me: borjamrd1@gmail.com
