@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Borja Muñoz Ruiz-Dana
-- 🚀 Some projects: www.bmrd.dev
-- 👀 I’m interested in web apps development. MERN & MEAN
-- 💞️ Currently working at Volkswagen Group Retail Spain, professional profile: https://github.com/borjamunozvw
-- 📫 How to reach me: borjamrd1@gmail.com
+HI
+Some projects: www.bmrd.dev
+Portfolio: https://github.com/borjamunozvw
+How to reach me: borjamrd1@gmail.com
