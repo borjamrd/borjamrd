@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Borja</h1>
-<h3>A passionate fullstack developer from Spain</h3>
+<h3>Fullstack developer from Spain</h3>
 
 <p align="left"> <img src="https://i.giphy.com/CuuSHzuc0O166MRfjt.webp" alt="borjamrd" /> </p>
 
