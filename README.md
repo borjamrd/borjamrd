@@ -1,7 +1,5 @@
-<h1>Hi 👋, I'm Borja</h1>
-<h3>Fullstack developer from Spain</h3>
-
-<p align="left"> <img src="https://i.giphy.com/CuuSHzuc0O166MRfjt.webp" alt="borjamrd" /> </p>
+<h2>Hi 👋, I'm Borja</h2>
+<h4>Fullstack developer from Spain.I'm constantly curious and love tinkering with things. Most of the time, I find ways to make them better</h4>
 
 - 🤝 I’m looking for help with **open source projects**
 - 👨‍💻 All of my projects are available at [www.bmrd.dev](https://bmrd.dev/)
