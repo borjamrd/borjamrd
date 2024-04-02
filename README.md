@@ -1,6 +1,5 @@
-<h2>Hi 👋, I'm Borja</h2>
-<h4>Fullstack developer from Spain.I'm constantly curious and love tinkering with things. Most of the time, I find ways to make them better</h4>
-
+## Hi 👋, I'm Borja
+#### Fullstack developer from Spain.I'm constantly curious and love tinkering with things. Most of the time, I find ways to make them better</h4>
 - 🤝 I’m looking for help with **open source projects**
 - 👨‍💻 All of my projects are available at [www.bmrd.dev](https://bmrd.dev/)
 - 📝 I regularly write articles on [www.blog.bmrd.dev](https://blog.bmrd.dev/) and [https://medium.com/@borjamrd1](https://medium.com/@borjamrd1)
