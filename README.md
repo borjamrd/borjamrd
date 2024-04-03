@@ -16,7 +16,7 @@
 ![borjamrd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=borjamrd&theme=tokyonight&hide_border=true)
 ![borjamrd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=borjamrd&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-# Blogs posts
+#### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Angular 17: show app version, automate releases and update changelog](https://medium.com/@borjamrd1/angular-17-show-app-version-automate-releases-and-update-changelog-bcec6936e50f?source=rss-7693e57416c7------2)
 - [Type your FormGroups in Angular in three different ways](https://medium.com/@borjamrd1/type-your-formgroups-in-angular-in-three-different-ways-707c289640b1?source=rss-7693e57416c7------2)
