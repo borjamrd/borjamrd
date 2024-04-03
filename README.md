@@ -16,6 +16,6 @@
 ![borjamrd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=borjamrd&theme=tokyonight&hide_border=true)
 ![borjamrd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=borjamrd&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-### Blogs posts
+# Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
